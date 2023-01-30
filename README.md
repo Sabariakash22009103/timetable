@@ -12,6 +12,8 @@ Add header row using th tag
 Add your timetable
 ### STEP 4
 Execute the program
+# program
+```
 <!DOCTYPE html>
 <html>
 
@@ -100,10 +102,12 @@ Execute the program
      
    </body>
 </html>
+```
+# OUPUT:
+![image](https://user-images.githubusercontent.com/119390227/211238776-f62bf601-11c3-4564-ac7e-d87d2686659d.png) 
 
-OUPUT
-![image](https://user-images.githubusercontent.com/119390227/211238776-f62bf601-11c3-4564-ac7e-d87d2686659d.png)
-
+# Result:
+  This program is executed successfully!
 
 
 
